@@ -7,11 +7,11 @@ user_info = {
 }
 
 # Accessing individual fields
-print("👋 Hi, I'm", user_info["name"])
-print("👀 I'm interested in", user_info["interests"])
-print("🌱 I'm currently", user_info["currently_learning"])
-print("💞️ I'm looking to collaborate on", user_info["looking_to_collaborate_on"])
-print("📫 How to reach me", user_info["contact_email"])
+print("- 👋 Hi, I’m @CarbonAImarketing)
+print("👀 I’m interested in coding for start-up businesses development in the large language model (LLM) artificial intelligence (AI) algorithm that uses deep learning techniques)
+print("🌱 I’m currently coding Python for fun and educational purposes ...)
+print("💞️ I’m looking to collaborate on  with developers in the same area...)
+print("📫 How to reach me hello@carbonaimarketing.com..)
 
 <!---
 CarbonAImarketing/CarbonAImarketing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
